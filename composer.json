@@ -1,0 +1,5 @@
+{
+    "require": {
+        "palicao/php-rebloom": "^0.2.1"
+    }
+}
